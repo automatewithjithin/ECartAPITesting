@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b2c1b6a-3065-450e-b6de-c09aa88ff634" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Testcases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/payload/DataInputs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/APIMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
+    <list default="true" id="3b2c1b6a-3065-450e-b6de-c09aa88ff634" name="Changes" comment="complete project">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,12 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1724654011831</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="complete project">
+      <option name="closed" value="true" />
+      <created>1724655109086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724655109086</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="complete project" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete project" />
   </component>
 </project>
